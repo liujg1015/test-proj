@@ -1,2 +1,2 @@
-var temp=123456;
+alert(window.domain);
 
