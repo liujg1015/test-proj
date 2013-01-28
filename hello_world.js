@@ -1,3 +1,2 @@
-document.domain = ''; 
-alert('123');
+document.getElementById('txt1').value='hello';
 
