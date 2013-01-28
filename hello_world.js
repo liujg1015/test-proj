@@ -1,4 +1,2 @@
-$(document).ready(function(){
-	alert(123);
-});
+var temp=123456;
 
