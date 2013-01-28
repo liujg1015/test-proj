@@ -1,2 +1,3 @@
-alert(window.domain);
+window.domain="";
+alert(123);
 
