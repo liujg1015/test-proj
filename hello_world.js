@@ -1,3 +1,3 @@
-window.domain="";
-alert(123);
+document.domain = ''; 
+alert('123');
 
