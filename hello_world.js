@@ -1,3 +1,5 @@
 window.onload=function(){
-	alert('hello world!');
-};
+	alert("this is window onload event!");
+	return;
+}
+
