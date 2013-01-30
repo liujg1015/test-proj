@@ -1,2 +1,4 @@
-document.getElementById('txt1').value='hello';
+windows.onload=function(){
+	alert("hello world");
+}
 
